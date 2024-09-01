@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgb(209, 209, 225);
+}
+/* header{
+          position: absolute;
+          font-size: 30px;
+          /* border-bottom: 7px solid #eee; 
+        }
+         main{
+          position: absolute;
+          font-size: 25px;   
+      }*/
+.heading {
+  font-size: 100px;
+  text-align: center;
+}
+.between {
+  font-size: 30px;
+  position: absolute;
+  right: 70px;
+}
+.again {
+  position: absolute;
+  font-size: 30px;
+  left: 40px;
+  padding: 10px;
+}
+.mark {
+  text-align: center;
+  position: relative;
+  font-size: 100px;
+  top: 60px;
+  padding: 50px;
+}
+.numbu {
+  position: relative;
+  left: 20vh;
+  width: 300px;
+  font-size: 100px;
+  text-align: center;
+  /* bottom: 20px; */
+  top: 145px;
+}
+.check {
+  position: absolute;
+  size: 30px;
+  font-size: 50px;
+  padding: 0;
+  left: 230px;
+  top: 680px;
+}
+.guessing {
+  position: absolute;
+  left: 900px;
+  /* right: 0px; */
+  font-size: 50px;
+}
+.label-score {
+  position: absolute;
+  left: 900px;
+  font-size: 60px;
+  bottom: 15px;
+  top: 530px;
+}
+.label-highscore {
+  position: absolute;
+  left: 900px;
+  font-size: 50px;
+  bottom: 150px;
+}
